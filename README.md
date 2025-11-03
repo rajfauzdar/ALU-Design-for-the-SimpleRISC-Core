@@ -29,8 +29,8 @@ A primary goal of the assignment was a 250 MHz frequency target. My synthesis re
 
 * `/rtl`: Contains all synthesizable Verilog source code (e.g., `alu.v`, `kogge_stone_adder.v`, etc.).
 * `/sim`: Contains the testbench (`tb_simplerisc.v`), assembler (`asm2py.py`), and test program (`program.asm`).
-* `/doc`: Includes the [full design report](doc/coa_assignment2_report.pdf) and the original [assignment specification](doc/Assignment_SimpleRISC_ALU_Design.pdf).
-* `/waveforms`: Simulation screenshots demonstrating correct operation.
+* `/doc`: Includes the [full design report](doc/coa_assignment2_report.pdf).
+* `/results screenshots`: Simulation screenshots demonstrating correct operation.
 
 ##  How to Run This Project
 
